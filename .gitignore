@@ -11,6 +11,15 @@ pubspec.lock
 # If you don't generate documentation locally you can remove this line.
 doc/api/
 
+# IDE-specific ignores
+.idea/
+.vscode/
+*.im
+
+# Platform-specific ignores
+ios/Pods/
+android/.gradle/
+
 # dotenv environment variables file
 .env*
 
