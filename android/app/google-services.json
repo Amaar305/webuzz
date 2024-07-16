@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "63337787041",
+    "project_id": "webuzz-64d9f",
+    "storage_bucket": "webuzz-64d9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63337787041:android:e8af23df59be3cff468ae0",
+        "android_client_info": {
+          "package_name": "com.amarr.webuzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63337787041-bn06hhm1vvch355jdca8r3e50kmhv7s2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amarr.webuzz",
+            "certificate_hash": "b44d3dd02986ee27e84ac6df7744e25a1a64fe46"
+          }
+        },
+        {
+          "client_id": "63337787041-j5oto5q5tjh13ml3m10ni5hcovvb92f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG32pUpoPLvRaKFEpV474BC1yzLt0QDg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63337787041-j5oto5q5tjh13ml3m10ni5hcovvb92f3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "63337787041-nq9n05dvq22sq4j00omoq4tmckp1d12i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.amarr.webuzz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
